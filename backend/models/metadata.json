@@ -1,0 +1,94 @@
+{
+  "feature_columns": [
+    "category_encoded",
+    "month",
+    "quantity",
+    "discount_percent",
+    "is_festival_int",
+    "cost_price",
+    "selling_price",
+    "category_avg_sale",
+    "month_avg_sale",
+    "profit_margin",
+    "base_sale_value"
+  ],
+  "categories": [
+    "Clothing",
+    "Electronics",
+    "Groceries",
+    "Home & Kitchen",
+    "Sports"
+  ],
+  "category_avg": [
+    {
+      "category_name": "Clothing",
+      "category_avg_sale": 4249.942254237289
+    },
+    {
+      "category_name": "Electronics",
+      "category_avg_sale": 39568.63239239799
+    },
+    {
+      "category_name": "Groceries",
+      "category_avg_sale": 453.2344612068966
+    },
+    {
+      "category_name": "Home & Kitchen",
+      "category_avg_sale": 4358.985766904893
+    },
+    {
+      "category_name": "Sports",
+      "category_avg_sale": 4267.828502673797
+    }
+  ],
+  "month_avg": [
+    {
+      "month": 1,
+      "month_avg_sale": 10075.312707355242
+    },
+    {
+      "month": 2,
+      "month_avg_sale": 10405.932529914531
+    },
+    {
+      "month": 3,
+      "month_avg_sale": 11165.712041984734
+    },
+    {
+      "month": 4,
+      "month_avg_sale": 8727.627943661972
+    },
+    {
+      "month": 5,
+      "month_avg_sale": 10563.690800653594
+    },
+    {
+      "month": 6,
+      "month_avg_sale": 12015.39859621451
+    },
+    {
+      "month": 7,
+      "month_avg_sale": 10651.117359098229
+    },
+    {
+      "month": 8,
+      "month_avg_sale": 10473.650100166946
+    },
+    {
+      "month": 9,
+      "month_avg_sale": 12012.880358361774
+    },
+    {
+      "month": 10,
+      "month_avg_sale": 10057.126419213973
+    },
+    {
+      "month": 11,
+      "month_avg_sale": 10341.515613682091
+    },
+    {
+      "month": 12,
+      "month_avg_sale": 10000.455851063829
+    }
+  ]
+}
